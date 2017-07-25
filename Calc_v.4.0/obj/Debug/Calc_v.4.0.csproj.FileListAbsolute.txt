@@ -1,0 +1,12 @@
+D:\projects\Calc_project\Calc_v.4.0\Calc_v.4.0\bin\Debug\Calc_v.4.0.exe.config
+D:\projects\Calc_project\Calc_v.4.0\Calc_v.4.0\bin\Debug\Calc_v.4.0.exe
+D:\projects\Calc_project\Calc_v.4.0\Calc_v.4.0\bin\Debug\Calc_v.4.0.pdb
+D:\projects\Calc_project\Calc_v.4.0\Calc_v.4.0\obj\Debug\Calc_v.4.0.csprojResolveAssemblyReference.cache
+D:\projects\Calc_project\Calc_v.4.0\Calc_v.4.0\obj\Debug\Calc_v.4.0.exe
+D:\projects\Calc_project\Calc_v.4.0\Calc_v.4.0\obj\Debug\Calc_v.4.0.pdb
+C:\Users\s.kravchenko\Desktop\Calc\Calc_v.4.0\Calc_v.4.0\bin\Debug\Calc_v.4.0.exe.config
+C:\Users\s.kravchenko\Desktop\Calc\Calc_v.4.0\Calc_v.4.0\obj\Debug\Calc_v.4.0.exe
+C:\Users\s.kravchenko\Desktop\Calc\Calc_v.4.0\Calc_v.4.0\obj\Debug\Calc_v.4.0.pdb
+C:\Users\s.kravchenko\Desktop\Calc\Calc_v.4.0\Calc_v.4.0\bin\Debug\Calc_v.4.0.exe
+C:\Users\s.kravchenko\Desktop\Calc\Calc_v.4.0\Calc_v.4.0\bin\Debug\Calc_v.4.0.pdb
+C:\Users\s.kravchenko\Desktop\Calc\Calc_v.4.0\Calc_v.4.0\obj\Debug\Calc_v.4.0.csprojResolveAssemblyReference.cache
